@@ -1,0 +1,26 @@
+body{
+  background-color:darkmagenta;
+}
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 50vh;
+  
+}
+.fname{
+  position: fixed;
+  left: 45%;
+}
+.lname{
+  position: fixed;
+  top: 16%;
+  right: 43.5%;
+}
+.btn{
+  position:fixed;
+  top: 23%;
+  right: 47%;
+}
